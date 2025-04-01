@@ -1,5 +1,4 @@
 {
-  "Library Name": "SomeLibrary",
-  "Library URL": "https://github.com/ProjectNyxian/LibraryTemplate/main.nxm",
-  "Library SubFiles": [""]
+  "LibraryName": "SomeLibrary",
+  "LibraryFiles": ["https://github.com/ProjectNyxian/LibraryTemplate/raw/main.nxm"]
 }
