@@ -1,0 +1,16 @@
+//
+// main.nxm
+//
+// some project file
+//
+
+include("io")
+
+function print(msg)
+{
+  io.write(STDOUT_FILENO, msg.length, msg);
+}
+
+return {
+  print: print,
+};
